@@ -1,0 +1,5 @@
+Tomando como base la explicación en clase y el apunte adjunto, resolver los siguientes problemas utilizando Python:
+
+    Escribir un programa que cuente la cantidad de líneas en un archivo.
+    Escribir un programa que copie el contenido de un archivo en otro.
+    Escribir un programa que, dados dos archivos, combine cada línea del primer archivo con la línea correspondiente del segundo. Es decir, concatenar la primera línea de ambos, luego la segunda, luego la tercera, etc. El resultado debe almacenarse en el segundo archivo.
